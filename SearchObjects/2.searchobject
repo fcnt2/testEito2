@@ -1,21 +1,19 @@
 {
-	"originalcapturelocation": [
-		30,
-		219,
-		68,
-		122
-	],
-	"lastmodifieddate": 1652696626.1199999,
-	"createddate": 1652696626.1199999,
-	"name": "1",
-	"lastfounddate": 1652697560.766,
-	"ocrcapturestring": "□",
+	"lastmodifieddate": 1652697602.5219998,
 	"lastfoundlocation": [
-		30,
-		219,
-		68,
-		122
+		28,
+		483,
+		67,
+		114
 	],
+	"originalcapturelocation": [
+		28,
+		483,
+		67,
+		114
+	],
+	"createddate": 1652697602.5219998,
+	"lastfounddate": 1652697603.233,
 	"testlocationdata": [
 		{
 				"connectionportnum": 7000,
@@ -38,8 +36,8 @@
 							"elementType": "Checkpoint",
 							"elementScale": 1,
 							"class": "android.widget.TextView",
-							"displayed": "true",
 							"checkable": "false",
+							"displayed": "true",
 							"focused": "false",
 							"enabled": "true"
 						},
@@ -61,8 +59,8 @@
 							"elementType": "Checkpoint",
 							"elementScale": 1,
 							"class": "android.widget.TextView",
-							"displayed": "true",
 							"checkable": "false",
+							"displayed": "true",
 							"focused": "false",
 							"enabled": "true"
 						},
@@ -77,15 +75,15 @@
 							"focusable": "false",
 							"resource-id": "android:id/summary",
 							"index": "1",
-							"elementName": "09023340115",
+							"elementName": "09053351025",
 							"elementLocation": "{x = 110; y = 309; width = 220; height = 50}",
 							"checked": "false",
-							"text": "09023340115",
+							"text": "09053351025",
 							"elementType": "Checkpoint",
 							"elementScale": 1,
 							"class": "android.widget.TextView",
-							"displayed": "true",
 							"checkable": "false",
+							"displayed": "true",
 							"focused": "false",
 							"enabled": "true"
 						},
@@ -107,8 +105,8 @@
 							"elementType": "Checkpoint",
 							"elementScale": 1,
 							"class": "android.widget.TextView",
-							"displayed": "true",
 							"checkable": "false",
+							"displayed": "true",
 							"focused": "false",
 							"enabled": "true"
 						},
@@ -130,8 +128,8 @@
 							"elementType": "Checkpoint",
 							"elementScale": 1,
 							"class": "android.widget.TextView",
-							"displayed": "true",
 							"checkable": "false",
+							"displayed": "true",
 							"focused": "false",
 							"enabled": "true"
 						},
@@ -153,8 +151,8 @@
 							"elementType": "Checkpoint",
 							"elementScale": 1,
 							"class": "android.widget.TextView",
-							"displayed": "true",
 							"checkable": "false",
+							"displayed": "true",
 							"focused": "false",
 							"enabled": "true"
 						},
@@ -177,8 +175,8 @@
 							"elementType": "Checkpoint",
 							"elementScale": 1,
 							"class": "android.widget.TextView",
-							"checkable": "false",
 							"displayed": "true",
+							"checkable": "false",
 							"focused": "false",
 							"enabled": "true"
 						},
@@ -200,8 +198,8 @@
 							"elementType": "Checkpoint",
 							"elementScale": 1,
 							"class": "android.widget.TextView",
-							"displayed": "true",
 							"checkable": "false",
+							"displayed": "true",
 							"focused": "false",
 							"enabled": "true"
 						},
@@ -223,8 +221,8 @@
 							"elementType": "Checkpoint",
 							"elementScale": 1,
 							"class": "android.widget.TextView",
-							"displayed": "true",
 							"checkable": "false",
+							"displayed": "true",
 							"focused": "false",
 							"enabled": "true"
 						}
@@ -233,7 +231,7 @@
 					"CropRectangle": "[0,0,0,0]",
 					"Rotate": 0,
 					"Scale": "    1",
-					"HotSpot": "[34,61]",
+					"HotSpot": "[33,57]",
 					"Tolerance": "_45",
 					"Discrepancy": "_0",
 					"SearchType": "Tolerant of Background"
@@ -250,22 +248,22 @@
 					"product": "F42A",
 					"EggSensorBuildNumber": "2107292126",
 					"device_os_version": "10",
-					"protocol_version": "2.6",
 					"SystemNative2BuildTime": "Jul 29 2021, 21:30:43",
+					"protocol_version": "2.6",
 					"endianess": "little-endian",
-					"serial": "1e520063"
+					"serial": "191842ee"
 				},
-				"name": "1.png",
+				"name": "2.png",
 				"connectionname": "localhost",
 				"type": 1,
-				"connectionserverid": "localhost",
 				"capturerect": [
-					30,
-					219,
-					68,
-					122
+					28,
+					483,
+					67,
+					114
 				],
-				"capturedocrtext": "□"
+				"connectionserverid": "localhost"
 			}
-	]
+	],
+	"name": "2"
 }
